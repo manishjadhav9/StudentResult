@@ -1,0 +1,62 @@
+/* Style for Admin Login Panel */
+
+.panel-heading {
+  background-color: #f5f5f5;
+  border-bottom: 1px solid #ddd;
+}
+
+.panel-title {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.panel-body {
+  background-color: #fff;
+  padding: 20px;
+}
+
+.form-horizontal .form-group {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.control-label {
+  padding-top: 7px;
+}
+
+/* Style for Buttons */
+.btn-success {
+  background-color: #5cb85c;
+  border-color: #4cae4c;
+  float: right;
+}
+
+.btn-success:hover {
+  background-color: #4cae4c;
+  border-color: #255725;
+}
+
+/* Style for Links */
+a {
+  color: #337ab7;
+}
+
+a:hover {
+  color: #23527c;
+}
+
+/* Style for Section Titles */
+.section-title {
+  margin-bottom: 20px;
+}
+
+.sub-title {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+/* Style for Copyright */
+.text-muted {
+  margin-top: 20px;
+  text-align: center;
+}
