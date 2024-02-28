@@ -3,7 +3,7 @@ session_start();
 error_reporting(0);
 include('includes/config.php');
 if (strlen($_SESSION['alogin']) == "") {
-  header("Location: index.php");
+  header("Location: login.php");
 } else {
   if (isset($_POST['submit'])) {
     $msg = $error = "";

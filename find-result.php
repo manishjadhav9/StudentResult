@@ -61,7 +61,7 @@ include('includes/config.php'); ?>
                   </div>
                 </div>
                 <div class="col-sm-6">
-                  <a href="index.php">Back to Home</a>
+                  <a href="login.php">Back to Home</a>
                 </div>
               </form>
               <hr>

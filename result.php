@@ -147,7 +147,7 @@ include('includes/config.php');
                   <div class="form-group">
 
                     <div class="col-sm-6">
-                      <a href="index.php">Back to Home</a>
+                      <a href="login.php">Back to Home</a>
                     </div>
                   </div>
 
