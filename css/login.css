@@ -1,0 +1,81 @@
+/* Add your custom styles here */
+
+body {
+  background-color: black;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.main-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 36px;
+}
+
+.sub-title {
+  font-weight:  normal;
+  font-size: 24px;
+}
+
+.container {
+  width: 80%;
+  max-width: 1000px;
+}
+
+.panel {
+  background-color: black;
+  border: 1px solid cornsilk;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.panel-heading {
+  background-color: rgba(0, 0, 0, 0.8);
+  border-bottom: 1px solid cornsilk;
+}
+
+.panel-heading h4 {
+  color: white;
+  font-weight: bold;
+}
+
+.panel-body {
+  background-color: black;
+  padding: 20px;
+}
+
+.btn-success {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.btn-success:hover {
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.btn-label-right {
+  margin-left: 5px;
+}
+
+.form-control {
+  background-color: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: white;
+}
+
+.form-control:focus {
+  border-color: #80bdff;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.control-label {
+  color: white;
+}
