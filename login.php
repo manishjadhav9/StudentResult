@@ -32,11 +32,11 @@ if (isset($_POST['login'])) {
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Student Result Management System</title>
+  <title>Student Result Generation System</title>
   <link rel="stylesheet" href="css/bootstrap.min.css" media="screen">
   <link rel="stylesheet" href="css/font-awesome.min.css" media="screen">
   <link rel="stylesheet" href="css/animate-css/animate.min.css" media="screen">
-  <link rel="stylesheet" href="css/prism/prism.css" media="screen"> <!-- USED FOR DEMO HELP - YOU CAN REMOVE IT -->
+  <link rel="stylesheet" href="css/prism/prism.css" media="screen"> 
   <link rel="stylesheet" href="css/index.css" media="screen">
   <script src="js/modernizr/modernizr.min.js"></script>
 </head>
@@ -46,7 +46,7 @@ if (isset($_POST['login'])) {
 
     <div class="">
       <div class="row">
-        <h1 align="center">Student Result Management System</h1>
+        <h1 align="center">Student Result Generation System</h1>
         <div class="col-lg-6 visible-lg-block">
 
           <section class="section">
@@ -64,7 +64,7 @@ if (isset($_POST['login'])) {
                       <div class="panel-body p-20">
 
                         <div class="panel-title text-center">
-                          <h4 class="sub-title">Student Result Management System</h4>
+                          <h4 class="sub-title">Student Result Generation System</h4>
                         </div>
 
                         <form class="form-horizontal" method="post">
@@ -113,7 +113,7 @@ if (isset($_POST['login'])) {
                       <div class="panel-body p-20">
 
                         <div class="section-title">
-                          <p class="sub-title">Student Result Management System</p>
+                          <p class="sub-title">Student Result Generation System</p>
                         </div>
 
                         <form class="form-horizontal" method="post">
